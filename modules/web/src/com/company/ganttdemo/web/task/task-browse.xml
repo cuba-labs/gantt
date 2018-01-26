@@ -24,6 +24,9 @@
                 datasource="tasksDs">
             <properties include=".*"/>
         </filter>
+        <hbox id="ganttBox"
+              height="300px"
+              width="100%"/>
         <treeTable id="tasksTable"
                    width="100%">
             <actions>
