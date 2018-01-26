@@ -1,6 +1,6 @@
 # gantt
 
-How to use Product Tour Vaadin add-on https://vaadin.com/directory/component/gantt in CUBA applications.
+This sample shows how to use the Product Tour Vaadin add-on https://vaadin.com/directory/component/gantt in CUBA applications.
 
 ![Demo](/images/screen.png)
 
