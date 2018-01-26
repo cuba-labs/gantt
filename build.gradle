@@ -145,6 +145,9 @@ configure(webModule) {
     dependencies {
         provided(servletApi)
         compile(guiModule)
+        compile('org.tltv.gantt:gantt-addon:0.9.5') {
+            exclude(group: 'com.vaadin', module: 'vaadin-client')
+        }
 
     }
 
